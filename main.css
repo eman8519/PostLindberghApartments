@@ -114,8 +114,18 @@ body{
 	padding-bottom: 10px;
 }
 
-#fbLike{
-	text-align: right;
+#sharingWidgets .twitter-tweet{
+	position: relative;
+	top: 3px;
+	margin-left: 35px;
+	display: inline-block;
+}
+
+#googleLike{
+	position: relative;
+	top: 3px;
+	margin-left: 10px;
+	display: inline-block;
 }
 
 #footer{
