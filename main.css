@@ -89,12 +89,6 @@ body{
 	display: inline-block;
 }
 
-#rightCol h1{
-	margin-top: 10px;
-	font-family: Copperplate Gothic Light, sans-serif;
-	font-size: 30px;
-}
-
 #rightCol h2{
 	margin-top: 10px;
 	font-family: Copperplate Gothic Light, sans-serif;
@@ -102,6 +96,12 @@ body{
 }
 
 #rightCol h3{
+	margin-top: 10px;
+	font-family: Copperplate Gothic Light, sans-serif;
+	font-size: 30px;
+}
+
+#rightCol h4{
 	margin-top: 10px;
 	margin-bottom: 10px;
 	font-family: Copperplate Gothic Light, sans-serif;
